@@ -1,0 +1,11 @@
+﻿<Application
+    x:Class="POS_UNO.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:POS_UNO">
+	
+	<Application.Resources>
+		<XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls" />
+	</Application.Resources>
+
+</Application>
